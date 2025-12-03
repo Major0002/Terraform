@@ -1,0 +1,2 @@
+{self.private_ip} 
+{self.private_ip} 
